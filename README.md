@@ -2,6 +2,7 @@
 
 編集したファイル
 
+これはmainで変更
 ## Preparation
 
 ### 1. Create a new repository on GitHub, for example, named `conflict-practice`
